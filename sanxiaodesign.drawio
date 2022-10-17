@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T16:02:32.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DkIStkj1lYnadBukeiM1" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T16:09:13.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zKjZnT6oKrJhhehCz90-" version="20.4.1" type="github">
   <diagram id="LCbXn-3MXr7fc6zhFQKl" name="第 1 页">
     <mxGraphModel dx="1550" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,6 +20,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-1" target="TRvFklDj4OLgMswm-uFO-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-1" target="TRvFklDj4OLgMswm-uFO-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-1" value="三消" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -118,19 +121,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-40" value="小棋盘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="670" width="100" height="40" as="geometry" />
+          <mxGeometry x="70" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-42" target="TRvFklDj4OLgMswm-uFO-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-42" value="分隔棋子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="670" width="100" height="40" as="geometry" />
+          <mxGeometry x="200" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-43" target="TRvFklDj4OLgMswm-uFO-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-43" value="预设棋子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="670" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-46" target="TRvFklDj4OLgMswm-uFO-48">
           <mxGeometry relative="1" as="geometry" />
@@ -139,19 +142,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-46" value="隐藏颜色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="670" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-48" value="羊了个羊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="580" y="670" width="100" height="40" as="geometry" />
+          <mxGeometry x="580" y="630" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-50" target="TRvFklDj4OLgMswm-uFO-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-50" value="万能牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="740" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-51" value="3 Tiles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="580" y="740" width="100" height="40" as="geometry" />
+          <mxGeometry x="580" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-54" value="Candy Crush Soda" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="760" y="200" width="100" height="40" as="geometry" />
@@ -203,6 +206,39 @@
         </mxCell>
         <mxCell id="TRvFklDj4OLgMswm-uFO-73" value="宝石迷阵" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="760" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-79" target="TRvFklDj4OLgMswm-uFO-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-79" value="二消" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-80" target="TRvFklDj4OLgMswm-uFO-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-80" value="父子型棋子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-81" target="TRvFklDj4OLgMswm-uFO-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-81" value="掉落补充" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-82" target="TRvFklDj4OLgMswm-uFO-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-82" value="掉一个，可操控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRvFklDj4OLgMswm-uFO-83" target="TRvFklDj4OLgMswm-uFO-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-83" value="物理特性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="830" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRvFklDj4OLgMswm-uFO-84" value="合成大西瓜" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="710" y="830" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
